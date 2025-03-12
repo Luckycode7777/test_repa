@@ -14,5 +14,7 @@ def new_func_2(x):
     return x + 1 + 4
 
 
+def new_func_3(x):
+    return x * 'Good'
 
 
