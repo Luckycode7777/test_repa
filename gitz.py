@@ -18,3 +18,6 @@ def new_func_3(x):
     return x * 'Good'
 
 
+def new_func_4(x):
+    print('I am new!')
+
