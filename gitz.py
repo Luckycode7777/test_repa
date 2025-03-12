@@ -11,7 +11,7 @@ def new_func(x):
 
 
 def new_func_2(x):
-    return 5 - 2
+    return 4
 
 
 def new_func_3(x):
