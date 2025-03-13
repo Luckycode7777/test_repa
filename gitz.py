@@ -21,3 +21,5 @@ def new_func_3(x):
 def new_func_4(x):
     print('I am new!')
 
+def second():
+    print('second')
