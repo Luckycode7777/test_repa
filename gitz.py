@@ -19,7 +19,7 @@ def new_func_3(x):
 
 
 def new_func_4(x):
-    print('I am new!')
+    print('I am new!') 
 
 def xxx():
     pass
@@ -29,3 +29,5 @@ def xxx():
 ## commit for fiwe
 
 # commit from github
+
+# nex commit
