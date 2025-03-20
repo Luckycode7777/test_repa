@@ -21,3 +21,19 @@ def new_func_3(x):
 def new_func_4(x):
     print('I am new!')
 
+
+def numz(n):
+    def dec(func):
+        def wrapper(*args, **kwargs):
+            for i in range(n):
+                res = func(*args, **kwargs)
+            return res
+        return wrapper
+    return dec
+
+
+@numz(2)
+def repeat():
+    print('Hello Max')
+
+repeat()
