@@ -37,3 +37,5 @@ def repeat():
 
 repeat()
 >>>>>>> second
+
+### NEW comment
