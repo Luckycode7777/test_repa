@@ -1,3 +1,4 @@
+import hello
 """Описание для описания"""
 """Еще одно описание для описания. типа комент :)"""
 
@@ -41,3 +42,4 @@ repeat()
 ### NEW comment
 ### NEW commit_1
 # one commit 5
+hello.hello()
